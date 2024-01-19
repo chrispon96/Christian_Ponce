@@ -1,2 +1,0 @@
-# Christian_Ponce
-python
